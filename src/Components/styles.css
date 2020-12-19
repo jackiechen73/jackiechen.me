@@ -1,0 +1,97 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.Home {
+  padding: 2vh 0
+}
+
+.Home-Profile-Section {
+  padding: 2vh 0
+}
+
+.Home-Profile-Thumbnail {
+  display: block;
+  margin: 0 auto;
+  height: 30vh;
+}
+
+.Home-Profile-Contact {
+  color: inherit;
+  text-decoration: inherit;
+  margin: 4px;
+}
+
+.Home-Profile-Contact:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.Home-Profile-Experience {
+ 
+}
+
+.Experience-Card {
+  width: 16rem;
+  margin: 2vh;
+}
+
+.Experience-Card-Main {
+  color: inherit;
+  text-decoration: inherit;
+  height: 100%;
+}
+
+.Experience-Card-Main:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.Experience-Card-Image {
+  height: auto;
+  width: 14rem;
+  margin: auto;
+}
+
+.Experience-Card-Text {
+  opacity: 0.5;
+}
+
+.Footer {
+
+}
+
+.Footer-Left {
+
+}
+
+.Footer-Right {
+  text-align: right;
+}
+
+.Footer-Contact-Button {
+  color: inherit;
+  text-decoration: inherit;
+  margin: 8px 0;
+}
+
+.Footer-Contact-Button:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.Footer-Contact-Button-Icon {
+  margin-right: 4px;
+}
+
+.WIP-Body {
+  display: table;
+  height: 60vh;
+  width: 100%;
+  text-align: center;
+}
+
+.WIP-Message {
+  display: table-cell;
+  vertical-align: middle;
+}
